@@ -10,3 +10,4 @@ ABOUT This Program
  2. and print only first name
  3. to substring i using Apache stringutils
  4. and then build executable jar
+ 5. to run this program use this command -> java -jar yuorapplication.jar
